@@ -18,7 +18,7 @@ a demo version (representative of the web application can be found [here](https:
 <br>
 <br>
 
-The system is based on Raspberry Pi and built using the RaspberryPi-3b, runs a verison of raspbian. The RPi is inturn coonected with nodes and communicate using [web-sockets]{https://pusher.com/websockets) connected over the Internet using wifi.
+The system is based on Raspberry Pi and built using the RaspberryPi-3b, runs a verison of raspbian. The RPi is inturn coonected with nodes and communicate using [web-sockets](https://pusher.com/websockets) connected over the Internet using wifi.
 
 Basic Functionalities take care of almost all the appliances in a Home, be it smart appliances (which can be directly connected via wifi) or usual appliances, for which we have interfaced a [NodeMCU](https://www.quora.com/How-does-NodeMCU-work) which makes each and every switch of your house to be connected over the internet using wifi.
 
